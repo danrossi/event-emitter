@@ -1,0 +1,8 @@
+{
+    "name": "event-emitter",
+    "version": "1.0.0",
+    "description": "Es6 Event Emitter util",
+    "module": "src/EventEmitter.js",
+    
+    "author": "danielr"
+}
